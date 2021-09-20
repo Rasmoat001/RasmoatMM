@@ -1,7 +1,7 @@
-API_KEY = 'CRank8wS1yXWxI0f2vMvyYxdDXbBACy2k5uTpzbcrKe4SMOHSCf5c64TyujLOYZK'
-API_SECRET = 'sJVVAtrzFZ03npLZ7bbluBp9pM3dS0CdHYGMVvEgooLpWKIScU0YK7kEriNrOQ2Y'
+API_KEY = 'key'
+API_SECRET = 'secret'
 
-WEBHOOK_PASSWORD = 'Rashidtradingview00'
+WEBHOOK_PASSWORD = 'webhook'
 
 # Not developed yet :)
 EMAIL = ""
